@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This project is an Omni Calculator built using Java, featuring a graphical user interface (GUI) developed with the Java Swing class.
+The calculator is designed to handle a variety of mathematical operations and conversions, making it a versatile tool for different calculation needs.
+The intuitive GUI ensures an easy and efficient user experience, allowing users to perform calculations with ease.
+This project showcases my skills in Java programming and GUI development using Swing.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: OMNI CALCULATOR
+Made by:Sibat Sajjad
+
