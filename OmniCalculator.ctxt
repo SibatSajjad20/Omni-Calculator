@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OmniCalculator
+comment1.params=
+comment1.target=OmniCalculator()
+comment2.params=
+comment2.target=javax.swing.JPanel\ createMainPanel()
+comment3.params=
+comment3.target=javax.swing.JPanel\ createCategoryPanel()
+comment4.params=category
+comment4.target=javax.swing.JPanel\ createSubcategoryPanel(java.lang.String)
+comment5.params=category
+comment5.target=java.lang.String[]\ getSubcategories(java.lang.String)
+comment6.params=category\ subcategory
+comment6.target=javax.swing.JPanel\ getCalculatorPanel(java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=void\ switchToSubcategoryPanel()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
